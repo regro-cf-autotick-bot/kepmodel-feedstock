@@ -1,11 +1,11 @@
-About kepmodel
-==============
+About kepmodel-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kepmodel-feedstock/blob/main/LICENSE.txt)
 
 Home: https://gitlab.unige.ch/jean-baptiste.delisle/kepmodel
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kepmodel-feedstock/blob/main/LICENSE.txt)
 
 Summary: Keplerian system model.
 
