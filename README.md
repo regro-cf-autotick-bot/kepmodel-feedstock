@@ -3,9 +3,9 @@ About kepmodel-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kepmodel-feedstock/blob/main/LICENSE.txt)
 
-Home: https://gitlab.unige.ch/jean-baptiste.delisle/kepmodel
+Home: https://gitlab.unige.ch/delisle/kepmodel
 
-Package license: GPL-3.0-or-later
+Package license: EUPL-1.2
 
 Summary: Keplerian system model.
 
